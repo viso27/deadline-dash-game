@@ -68,7 +68,7 @@ Open `http://localhost:5173`
 
 ## 🌐 Live Demo
 
-[Play Deadline Dash →](https://deadline-dash.vercel.app)
+[Play Deadline Dash →](https://(https://deadline-dash-game.vercel.app/))
 
 ---
 
